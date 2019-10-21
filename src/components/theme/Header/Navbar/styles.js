@@ -8,5 +8,14 @@ export const Wrapper = styled.div`
 
 	a {
 		color: #212121;
+		font-size: 20px;
+	}
+
+	img {
+		width: 3%;
+
+		@media (max-width: 1960px) {
+			width: 10%;
+		}
 	}
 `

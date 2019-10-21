@@ -1,10 +1,15 @@
 import styled from 'styled-components'
 
 export const Wrapper = styled.div`
-	background-image: url('../illustrations/details.svg');
-	background-size: contain;
-	background-position: left top;
-	background-repeat: no-repeat;
+	margin-bottom: 1.45rem;
+	color: #212121;
+	padding: 8rem 0 8rem 0;
+	clip-path: polygon(0% 14%, 100% 0, 100% 84%, 0 100%);
+	background: #f9f9f9;
+	text-align: center;
+	@media (max-width: 680px) {
+		padding: 12rem 0 14rem 0;
+	}
 `
 
 export const SkillsWrapper = styled.div`
@@ -19,18 +24,11 @@ export const SkillsWrapper = styled.div`
 `
 
 export const Details = styled.div`
-	flex: 1;
-	padding-left: 2rem;
+	flex: 3;
 
 	@media (max-width: 960px) {
 		padding-left: unset;
 		width: 100%;
-	}
-
-	h1 {
-		margin-bottom: 2rem;
-		font-size: 26pt;
-		color: #212121;
 	}
 
 	p {
@@ -40,17 +38,8 @@ export const Details = styled.div`
 		line-height: 1.3;
 		color: #707070;
 	}
-`
-
-export const Thumbnail = styled.div`
-	flex: 1;
-
-	@media (max-width: 960px) {
-		width: 100%;
-		margin-bottom: 2rem;
-	}
 
 	img {
-		width: 100%;
+		width: 50%;
 	}
 `

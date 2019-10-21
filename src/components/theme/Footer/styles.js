@@ -2,7 +2,7 @@ import styled from 'styled-components'
 
 export const Wrapper = styled.div`
 	padding: 28rem 0 4rem 0;
-	background-image: url('../illustrations/footer.svg');
+	background-image: url('../illustrations/footer.png');
 	background-size: cover;
 	background-position: top;
 	background-repeat: no-repeat;
@@ -32,7 +32,7 @@ export const Links = styled.div`
 		margin: 0 0.5rem;
 
 		img {
-			margin: 0;
+			margin: 0 0.2rem;
 		}
 
 		&:first-child,

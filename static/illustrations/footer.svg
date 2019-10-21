@@ -1,22 +1,50 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1922.002 448.145">
-  <defs>
-    <style>
-      .cls-1, .cls-2, .cls-3 {
-        fill: #efeeff;
-      }
-
-      .cls-1 {
-        opacity: 0.401;
-      }
-
-      .cls-2 {
-        opacity: 0.217;
-      }
-    </style>
-  </defs>
-  <g id="Group_23" data-name="Group 23" transform="translate(0.158 -3034.104)">
-    <path id="Path_290" data-name="Path 290" class="cls-1" d="M-19.158,3260.237s254.784-99.3,603.256,0,980.587-117.878,980.587-117.878,61.455-36.249,184.887-21.879c.167.053-.222,403.157,0,402.33l-796.5-12.978-972.227,13.417Z" transform="translate(171 -41)"/>
-    <path id="Path_299" data-name="Path 299" class="cls-2" d="M-19.158,3260.237s254.784-99.3,603.256,0,980.587-117.878,980.587-117.878,214.683-36.256,338.115-21.887c.167.053-.222,403.157,0,402.33l-949.731-12.971-972.227,13.417Z" transform="translate(19 -83)"/>
-    <path id="Path_289" data-name="Path 289" class="cls-3" d="M44.287,3243.82c96.5-22.961,295.183-53.288,539.811,16.417,348.472,99.3,980.587-117.878,980.587-117.878s118.549-78.494,356.9,21.041a253.947,253.947,0,0,1,43.147,22.693c.267,1.019-.135,314.673,0,313.447-.384-.362-1920.445.607-1920.445.607S44.449,3243.792,44.287,3243.82Z" transform="translate(-44 -18)"/>
-  </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1922 448.1" style="enable-background:new 0 0 1922 448.1;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#XMLID_2_);}
+	.st1{fill:url(#XMLID_3_);}
+	.st2{fill:url(#XMLID_4_);}
+	.st3{fill:#E7FDFF;}
+</style>
+<g id="Layer_1">
+</g>
+<g id="OBJECTS">
+	<g id="XMLID_43_">
+		<g id="XMLID_1060_">
+			
+				<linearGradient id="XMLID_2_" gradientUnits="userSpaceOnUse" x1="-1278.6118" y1="220.3731" x2="70.2358" y2="220.3731" gradientTransform="matrix(-0.6079 0 0 1 1144.7922 0)">
+				<stop  offset="0" style="stop-color:#8CF2E1"/>
+				<stop  offset="0.2532" style="stop-color:#98F2D0"/>
+				<stop  offset="0.7537" style="stop-color:#B6F3A3"/>
+				<stop  offset="1" style="stop-color:#C6F38B"/>
+			</linearGradient>
+			<path id="XMLID_41_" class="st0" d="M1922,231.9c0,0-401.6-88.9-819.9-65.9c0,0,449.7-4,819.9,112.7V231.9z"/>
+			<g id="XMLID_36_">
+				
+					<linearGradient id="XMLID_3_" gradientUnits="userSpaceOnUse" x1="-548.0634" y1="-451.9421" x2="1183.655" y2="1279.7762" gradientTransform="matrix(-0.6079 0 0 1 1144.7922 0)">
+					<stop  offset="0" style="stop-color:#BEF1F1"/>
+					<stop  offset="0.1529" style="stop-color:#BBECF1"/>
+					<stop  offset="0.3235" style="stop-color:#B3DFF1"/>
+					<stop  offset="0.5027" style="stop-color:#A5C9F0"/>
+					<stop  offset="0.6878" style="stop-color:#91A9F0"/>
+					<stop  offset="0.8756" style="stop-color:#7882EF"/>
+					<stop  offset="1" style="stop-color:#6563EF"/>
+				</linearGradient>
+				<path id="XMLID_42_" class="st1" d="M1175.2,187.4c296.7-19.2,746.8,91.2,746.8,91.2v168.5H0v-97.3
+					C573.2,447.1,878.4,206.6,1175.2,187.4z"/>
+			</g>
+			
+				<linearGradient id="XMLID_4_" gradientUnits="userSpaceOnUse" x1="633.7552" y1="357.8138" x2="1883.3334" y2="357.8138" gradientTransform="matrix(-0.6079 0 0 1 1144.7922 0)">
+				<stop  offset="0" style="stop-color:#BEF1F1"/>
+				<stop  offset="0.5982" style="stop-color:#9DF2E6"/>
+				<stop  offset="1" style="stop-color:#8CF2E1"/>
+			</linearGradient>
+			<path id="XMLID_35_" class="st2" d="M759.6,292.7c0,0-393,170.7-759.6,121.1v-64C0,349.8,292,413.8,759.6,292.7z"/>
+			<path id="XMLID_44_" class="st3" d="M1175.2,187.4C878.4,206.6,573.2,447.1,0,349.8c509.3,73.3,814-194,1164.5-193.3
+				c383,0.8,757.5,122.1,757.5,122.1S1471.9,168.2,1175.2,187.4z"/>
+		</g>
+	</g>
+</g>
 </svg>

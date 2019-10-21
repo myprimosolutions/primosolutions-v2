@@ -4,7 +4,7 @@ export const Button = styled.button`
 	cursor: pointer;
 	border-radius: 3px;
 	padding: 0.7rem 2.5rem;
-	border: none;
+	border: 10px;
 	-webkit-appearance: none;
 	-webkit-touch-callout: none;
 	-webkit-user-select: none;
@@ -14,6 +14,7 @@ export const Button = styled.button`
 	user-select: none;
 	color: #fff;
 	background: #0074d9;
+	box-shadow: 0 1px 6px 0 rgba(0, 0, 0, 0.11);
 
 	&:focus {
 		outline: none;

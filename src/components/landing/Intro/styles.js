@@ -2,7 +2,7 @@ import styled from 'styled-components'
 
 export const Wrapper = styled.div`
 	padding-bottom: 4rem;
-	background-image: url('../illustrations/overlay.svg');
+	background-image: url('../illustrations/overlay.jpg');
 	background-size: contain;
 	background-position: right top;
 	background-repeat: no-repeat;
@@ -39,8 +39,8 @@ export const Details = styled.div`
 
 	h4 {
 		margin-bottom: 2.5rem;
-		font-size: 32pt;
-		font-weight: normal;
+		font-size: 28pt;
+		font-weight: lighter;
 		color: #707070;
 
 		@media (max-width: 680px) {
@@ -54,9 +54,17 @@ export const Thumbnail = styled.div`
 
 	@media (max-width: 960px) {
 		width: 100%;
+
+		img {
+			display: none;
+		}
 	}
 
 	img {
-		width: 100%;
+		width: 60%;
+	}
+
+	p {
+		font-family: Consolas;
 	}
 `

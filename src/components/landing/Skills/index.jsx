@@ -1,11 +1,10 @@
 import React from 'react'
-import AnchorLink from 'react-anchor-link-smooth-scroll'
 import fullstack from 'Static/illustrations/fullstack.png'
 import ui from 'Static/illustrations/ui.png'
 import support from 'Static/illustrations/support.png'
-import { Container, MagicalButton } from 'Common'
+import { Container } from 'Common'
 import Circle from 'react-circle'
-import { Wrapper, SkillsWrapper, Details, Thumbnail } from './styles'
+import { Wrapper, SkillsWrapper, Details } from './styles'
 
 export const Skills = () => (
 	<Wrapper id="skills">

@@ -1,6 +1,6 @@
 import React from 'react'
 import Helmet from 'react-helmet'
-import Thumbnail from 'Static/thumbnail/thumbnail.png'
+import Thumbnail from 'Static/icons/logo.png'
 import {
 	url,
 	defaultDescription,
@@ -44,11 +44,7 @@ export const SEO = ({
 			"postalCode": "${address.zipCode}"
 		},
 		"sameAs": [
-			"${socialLinks.twitter}",
 			"${socialLinks.google}",
-			"${socialLinks.youtube}",
-			"${socialLinks.linkedin}",
-			"${socialLinks.instagram}",
 			"${socialLinks.github}"
 		]
   	}`

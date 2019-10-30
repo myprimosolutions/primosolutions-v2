@@ -3,8 +3,7 @@ import { Container } from 'Common'
 import fullstack from 'Static/illustrations/fullstack.svg'
 import uiDesign from 'Static/illustrations/ui.svg'
 import seo from 'Static/illustrations/seo.svg'
-import { Wrapper, CardBox } from './styles.js'
-import { Grid } from '../Projects/styles.js'
+import { Wrapper, CardBox, Grid } from './styles.js'
 
 export const ServiceCard = () => (
 	<Wrapper as={Container} id="service">

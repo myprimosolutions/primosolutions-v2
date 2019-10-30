@@ -9,9 +9,7 @@ export const Wrapper = styled.div`
 `
 
 export const Grid = styled.div`
-	display: flex;
-	flex-wrap: wrap;
-	justify-content: space-between;
+	display: grid;
 	align-items: center;
 	grid-template-columns: repeat(3, 1fr);
 	grid-template-rows: 8fr;
